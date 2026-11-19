@@ -1,0 +1,6 @@
+{
+  "name": "PeakCut",
+  "description": "Self-hosted AI video clipping studio for streams and videos. Finds the best moments, crops to vertical 9:16, adds word-by-word captions, and renders ready-to-post clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
